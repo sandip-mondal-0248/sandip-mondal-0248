@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sandip Mondal
 - 👀 I’m interested in learning new computer technologies and implementing them.
-- 🌱 I’m currently learning JAVA + DSA.
 - 🤝connect with me linkedIn profile - https://www.linkedin.com/in/sandip-mondal-483934248/
 
 <!---
