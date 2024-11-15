@@ -2,6 +2,11 @@
 
 **Welcome to my GitHub profile!**  
 I’m a passionate developer, tech enthusiast, and an adventurer at heart who loves exploring both the world of code and the great outdoors.
+<br>
+<br>
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
 
 ---
 
@@ -28,8 +33,4 @@ I’m a passionate developer, tech enthusiast, and an adventurer at heart who lo
 
 ---
 
-
-✨ _This profile README is like a sneak peek into my tech journey!_  
-⭐ Feel free to explore my repositories and leave a star if you like my work.  
-Let’s build something amazing together! 🚀
 
